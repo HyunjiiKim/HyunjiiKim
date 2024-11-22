@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Hyunji]
+# 👋 Hi there, I'm Hyunji
 
 ## 🎓 Web Development Student
 Currently expanding my skills in modern web technologies and building awesome projects along the way.
@@ -31,18 +31,28 @@ Currently expanding my skills in modern web technologies and building awesome pr
 - Backend-as-a-Service with Firebase
 
 ### 💻 Projects
-*Feel free to check out some of my key projects below:*
+1. **[CashDesk WebApp](link)** 
+   - A React-based cash desk application for school fundraising
+   - Features include transaction management and fund tracking
+   - Built with React to handle real-time cash operations
 
-1. [CashDesk WebApp](link) - Brief description
-2. [Listify](link) - Brief description
-3. [BookUp](link) - Brief description
+2. **[Listify](link)**
+   - A modern Todo List application built with React
+   - Clean and intuitive user interface
+   - Features task management with CRUD operations
+
+3. **[BookUp](link)**
+   - Full-stack web application using PHP, HTML, and CSS
+   - Implements complete CRUD functionality
+   - Robust error handling and data validation
+   - Custom-designed responsive interface
 
 ### 📫 How to Reach Me
-- Email: hyunjikim@hyunjikim.fr
-- LinkedIn: [Hyunji Kim](www.linkedin.com/in/hyunjikimpro)
+- Email: [hyunjikim@hyunjikim.fr](mailto:hyunjikim@hyunjikim.fr)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/hyunjikimpro/)
+- Blog : [Console.Blog("Hyunji")](velog.@hyunjikim)
 
 ### ⚡ Fun Fact
-*[Share something interesting about yourself or your coding journey]*
 
 ---
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=HyunjiiKim&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
