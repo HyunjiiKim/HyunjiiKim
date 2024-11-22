@@ -47,7 +47,7 @@ Currently expanding my skills in modern web technologies and building awesome pr
 ---
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=HyunjiiKim&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?HyunjiiKim=YourGitHubUsername&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HyunjiiKim&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
