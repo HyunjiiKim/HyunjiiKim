@@ -10,6 +10,7 @@ Currently expanding my skills in modern web technologies and building awesome pr
   - TypeScript (Learning)
   - React.js (Learning)
   - Next.js (Learning)
+  - Three.js (Learning)
 
 - **Backend:**
   - PHP
@@ -32,21 +33,21 @@ Currently expanding my skills in modern web technologies and building awesome pr
 - Backend-as-a-Service with Firebase
 
 ### 💻 Projects
-1. **[CashDesk WebApp](link)** 
+1.. **[LocalSteps](link)**
+   - Full-stack web application based on Express.js, MongoDB and React
+   - Implements complete CRUD functionality
+   - Robust error handling and data validation
+   - Custom-designed responsive interface
+2. **[CashDesk WebApp](link)** 
    - A React-based cash desk application for school fundraising
    - Features include transaction management and fund tracking
    - Built with React to handle real-time cash operations
 
-2. **[Listify](link)**
+3. **[Listify](link)**
    - A modern Todo List application built with React
    - Clean and intuitive user interface
    - Features task management with CRUD operations
 
-3. **[BookUp](link)**
-   - Full-stack web application using PHP, HTML, and CSS
-   - Implements complete CRUD functionality
-   - Robust error handling and data validation
-   - Custom-designed responsive interface
 
 ### 📫 How to Reach Me
 - Email: [hyunjikim@hyunjikim.fr](mailto:hyunjikim@hyunjikim.fr)
