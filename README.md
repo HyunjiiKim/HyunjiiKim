@@ -9,20 +9,24 @@ Currently expanding my skills in modern web technologies and building awesome pr
   - JavaScript
   - TypeScript (Learning)
   - React.js (Learning)
-  - Next.js (Learning)
-  - Three.js (Learning)
 
 - **Backend:**
   - PHP
   - Node.js (Learning)
   - MySQL
   - Python (Learning)
+ 
+- **Others:**
+- C
+- Swift
 
 - **Development Tools & Platforms:**
   - Git & GitHub
   - Docker
   - Firebase
   - VSCode
+  - Cypress
+  - Postman || Thunder Client
 
 ### 🌱 Currently Learning
 - Deepening my TypeScript knowledge
