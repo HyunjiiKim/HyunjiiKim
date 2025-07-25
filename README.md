@@ -37,24 +37,16 @@ Currently expanding my skills in modern web technologies and building awesome pr
 - Backend-as-a-Service with Firebase
 
 ### 💻 Projects
-1.. **[LocalSteps](link)**
+1.. **[LocalSteps](www.localstepsv2.onrender.com)**
    - Full-stack web application based on Express.js, MongoDB and React
    - Implements complete CRUD functionality
    - Robust error handling and data validation
    - Custom-designed responsive interface
-2. **[CashDesk WebApp](link)** 
-   - A React-based cash desk application for school fundraising
-   - Features include transaction management and fund tracking
-   - Built with React to handle real-time cash operations
-
-3. **[Listify](link)**
-   - A modern Todo List application built with React
-   - Clean and intuitive user interface
-   - Features task management with CRUD operations
-
+2.. **[Geoje POW](www.geoje.mastercmw.com)**
+3.. **[Collectif NebNeb](www.neb-neb.com)**
 
 ### 📫 How to Reach Me
-- Email: [hyunjikim@hyunjikim.fr](mailto:hyunjikim@hyunjikim.fr)
+- Email: [hyunjikim.pro@gmail.com](mailto:hyunjikim.pro@gmail.com)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/hyunjikimpro/)
 - Blog : [Console.Blog("Hyunji")](velog.@hyunjikim)
 
